@@ -1,0 +1,23 @@
+#!/bin/sh
+convert -resize 16x16 icon.png icon16x16.png
+convert -resize 29x29 icon.png icon29x29.png
+convert -resize 32x32 icon.png icon32x32.png
+convert -resize 36x36 icon.png icon36x36.png
+convert -resize 40x40 icon.png icon40x40.png
+convert -resize 48x48 icon.png icon48x48.png
+convert -resize 50x50 icon.png icon50x50.png
+convert -resize 57x57 icon.png icon57x57.png
+convert -resize 58x58 icon.png icon58x58.png
+convert -resize 72x72 icon.png icon72x72.png
+convert -resize 76x76 icon.png icon76x76.png
+convert -resize 80x80 icon.png icon80x80.png
+convert -resize 96x96 icon.png icon96x96.png
+convert -resize 100x100 icon.png icon100x100.png
+convert -resize 114x114 icon.png icon114x114.png
+convert -resize 120x120 icon.png icon120x120.png
+convert -resize 128x128 icon.png icon128x128.png
+convert -resize 144x144 icon.png icon144x144.png
+convert -resize 152x152 icon.png icon152x152.png
+convert -resize 512x512 icon.png icon512x512.png
+convert -resize 732x412 icon.png icon732x412.png
+convert -resize 1024x1024 icon.png icon1024x1024.png
